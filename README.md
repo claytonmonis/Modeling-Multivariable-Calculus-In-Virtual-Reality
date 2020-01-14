@@ -1,6 +1,16 @@
 # Modeling Multivariable Calculus In Virtual Reality
 
-[Two-dimensional variant](http://monisho.me/calculus/integration/index.html)
+### Controls
+
+- Joysticks: Teleport within the plane. 
+
+- Keypad numbers: Set the Riemann prism count. (e.g. the number 5 sets a 5 x 5 array of prisms for 25 in total.)
+
+### Two-dimensional variant
+
+If you don't have Unity and Windows Mixed Reality, the [two-dimensional variant](http://monisho.me/calculus/integration/index.html) is still accessible.
+
+### Presentation
 
 ![Slide1](https://imgur.com/jw8eS1V.jpg)
 ![Slide2](https://imgur.com/B52iwzw.jpg)
